@@ -1,0 +1,10 @@
+node_modules/
+*.log
+*.js.map
+.next/
+.vscode/
+*.swo
+build/
+*.tsbuildinfo
+out/
+.env
